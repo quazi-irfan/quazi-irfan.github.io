@@ -35,9 +35,10 @@ Wrote a 3D platforming game using Java based game engine (see Rabbit’s Fury Gi
 Developed 2D game engine framework with collision detection (see 2d side scroller GitHub repo)
 
 ### Programmer | Math & Statistics Dept. Research Team
-Fixed bugs in legacy Java codebase & reverse-engineered binary fix library compatibility
-Setup a modern build system (Gradle) for the codebase that did not have any
-Leadership
+Fixed bugs in legacy Java codebase & reverse-engineered binary fix library compatibility  
+Setup a modern build system (Gradle) for the codebase that did not have any  
+
+### Leadership
 Lead the Robotics Club software team; Held multiple ACM seminar on Git and Github
 Participated in Competitive programming and ICPC North Central Regional Contest 2017
 Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
