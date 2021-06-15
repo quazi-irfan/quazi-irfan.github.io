@@ -6,6 +6,7 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
+      - uses: actions/checkout@v2
       - uses: docker://pandoc/latex:2.9
         with:
           args: "-f markdown -t pdf -o README.pdf ~/README.md" # gets appended to pandoc command
