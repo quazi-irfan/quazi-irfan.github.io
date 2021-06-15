@@ -10,3 +10,7 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: "-f markdown -t pdf -o README.pdf README.md" # gets appended to pandoc command
+      - uses: actions/upload-artifact@v2
+        with:
+          name: README.pdf
+          path: pdf
