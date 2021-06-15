@@ -44,14 +44,14 @@ Participated in Competitive programming and ICPC North Central Regional Contest 
 Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
 
 ## Notable Coursework
-Analyzed a vehicle fuel efficiency dataset using Multiple Linear Regression that address multicollinearity
-problem using variation inflation factor (VIF), Ridge and LASSO method.
-Analyzed multivariate dataset using principal component and linear discriminate analysis
-Learned to compartmentalize components of Assembler for SIC-XE instruction set (on GitHub)
-Learned to implement a compiler for Ada to 16-bit Intel 8086 instruction by building a recursive descent
-parser that generates intermediate Three Address code that is converted to x86 via MASM (on Github)
-Developed a MySQL database front-end that dynamically generates Swing UI by parsing table information
-Implemented algorithms and benchmarked their runtime in independent study on Algorithms
+Analyzed a vehicle fuel efficiency dataset using Multiple Linear Regression that address multicollinearity  
+problem using variation inflation factor (VIF), Ridge and LASSO method.  
+Analyzed multivariate dataset using principal component and linear discriminate analysis  
+Learned to compartmentalize components of Assembler for SIC-XE instruction set (on GitHub)  
+Learned to implement a compiler for Ada to 16-bit Intel 8086 instruction by building a recursive descent  
+parser that generates intermediate Three Address code that is converted to x86 via MASM (on Github)  
+Developed a MySQL database front-end that dynamically generates Swing UI by parsing table information  
+Implemented algorithms and benchmarked their runtime in independent study on Algorithms  
 
 # References
 ## Dr. George Hamer, Ph.D.
