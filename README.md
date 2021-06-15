@@ -5,7 +5,7 @@ github.com/quazi-irfan
 medium.com/@quazirfan  
   
 ## Education
-M.S. in Statistics from South Dakota State University (CGPA 3.4, Expected Grad. Summer 2021)
+M.S. in Statistics from South Dakota State University (CGPA 3.4, Expected Grad. Summer 2021)  
 B.Sc. in Computer Science from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
 
 ## Skills
