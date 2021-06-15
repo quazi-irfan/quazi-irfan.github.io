@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: docker://pandoc/latex:2.9
         with:
-          args: "-f markdown -t pdf -o README.pdf ./README.md" # gets appended to pandoc command
+          args: "-f markdown -t pdf -o README.pdf ~/README.md" # gets appended to pandoc command
