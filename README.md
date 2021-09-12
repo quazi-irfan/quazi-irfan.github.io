@@ -21,12 +21,12 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 
 ### Graduate Teaching Assistant | Math & Statistics Department
 - Contributed content to [Learn R through Examples](https://gexijin.github.io/learnR/) textbook by Dr. Xijin Ge
-- Helped develop R and SAS upper-level and graduate programming courses at SDSU
+- Helped develop graduate level R and SAS programming courses
 - Wrote automation script for grading Assembly programs
 - Implemented string matching algorithm to detect similar homework submissions
 
 ### Undergraduate Research | Bennet Scholarship Recipient
-- Wrote research proposal and awarded **$5000** to develope a wearable exoskeleton for Virtual Reality
+- Wrote research proposal and was awarded **$5000** to develope a wearable exoskeleton for Virtual Reality
 - Blogged development process on Medium, Part [1](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-1-459db0c44e2e), [2](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-2-9aa988d5b33a) and [3](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-3-92dfd9b8b7a8)
 - Published IEEE conference paper [Building an Exoskeleton Glove on Virtual Reality Platform](https://ieeexplore.ieee.org/abstract/document/8500085)
 - Awarded top engineering poster at Undergraduate Research, Scholarship and Creative Activity Day(URSCAD) 2018
