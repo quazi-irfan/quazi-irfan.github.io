@@ -1,16 +1,16 @@
 # Quazi Irfan 
-quazirfan@gmail.com  
-386-334-4792  
-github.com/quazi-irfan  
-medium.com/@quazirfan  
+Email: quazirfan@gmail.com (Preferred)   
+Contact: 386-334-4792  
+Programming: [github.com/quazi-irfan](github.com/quazi-irfan)  
+Research: [medium.com/@quazirfan](https://medium.com/@quazirfan)  
   
 ## Education
-M.S. in Statistics from South Dakota State University (CGPA 3.4, Expected Grad. Summer 2021)
-B.Sc. in Computer Science from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
+- M.S. in Statistics from South Dakota State University (CGPA 3.6, Expected Grad. Fall 2021)
+- B.Sc. in Computer Science from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
 
 ## Skills
-Tools: Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
-Areas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Programming in R, Multiple Linear
+- Tools: Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
+- Aeas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Programming in R, Multiple Linear
 Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multivariate Analysis, Bayesian Statistics
 
 ## Experience
@@ -56,24 +56,24 @@ Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multiv
 
 # References
 ## Dr. George Hamer, Ph.D.
-Assistant Department Head
-Associate Professor
-Electrical Engineering and Computer Science Department
-South Dakota State University
-SECS 121
-Brookings, S.D. 57007
-605-688-5721
-George.Hamer@sdstate.edu
-(Instructor in CSC-314 Assembly Language, CSC-354 Systems Programming and CSC-446 Compiler Construction)
+Assistant Department Head  
+Associate Professor  
+Electrical Engineering and Computer Science Department  
+South Dakota State University  
+SECS 121  
+Brookings, S.D. 57007  
+605-688-5721  
+George.Hamer@sdstate.edu  
+(Instructor in CSC-314 Assembly Language, CSC-354 Systems Programming and CSC-446 Compiler Construction)  
 
 ## Dr. Gary Hatfield, Ph.D.
-Associate Professor
-Mathematics & Statistics Department
-South Dakota State University
-Architecture, Math & Engineering Building 256
-Math & Statistics-Box 2225
-University Station
-Brookings, SD 57007
-605-688-5846
-gary.hatfield@sdstate.edu
-(Graduate research advisor and instructor in Stochastic process and Probabilistic robotics course)
+Associate Professor  
+Mathematics & Statistics Department  
+South Dakota State University  
+Architecture, Math & Engineering Building 256  
+Math & Statistics-Box 2225  
+University Station  
+Brookings, SD 57007  
+605-688-5846  
+gary.hatfield@sdstate.edu  
+(Graduate research advisor and instructor in Stochastic process and Probabilistic robotics course)  
