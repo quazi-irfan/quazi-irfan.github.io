@@ -54,6 +54,9 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Participated in Competitive programming and ICPC North Central Regional Contest 2017
 - Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
 
+### Miscellaneous
+Acoustic fingerstyle guitarist, Concept Artist 
+
 ## References
 ### Dr. George Hamer, Ph.D.
 <details>
