@@ -20,27 +20,30 @@ Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multiv
 - Implemented path finding algorithm using BFS algorithm (see RoverMapping Github repo)
 
 ### Graduate Teaching Assistant | Math & Statistics Department
-- Contributed content of “Learn R through Examples” textbook by Xijin Ge
+- Contributed content to [Learn R through Examples](https://gexijin.github.io/learnR/) textbook by Dr. Xijin Ge
 - Helped develop R and SAS upper-level and graduate programming courses at SDSU
-- Wrote automation script for grading programs written in Assembly language
-- Implemented string matching algorithm to check similarity among students submissions
+- Wrote automation script for grading Assembly programs
+- Implemented string matching algorithm to detect similar homework submissions
 
 ### Undergraduate Research | Bennet Scholarship Recipient
-- Wrote research proposal and awarded $5000 for “Building a wearable exoskeleton for Virtual Reality”
+- Wrote research proposal and awarded **$5000** to develope a wearable exoskeleton for Virtual Reality
+- Blogged development process on Medium, Part [1](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-1-459db0c44e2e), [2](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-2-9aa988d5b33a) and [3](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-3-92dfd9b8b7a8)
+- Published IEEE conference paper [Building an Exoskeleton Glove on Virtual Reality Platform](https://ieeexplore.ieee.org/abstract/document/8500085)
 - Learned to navigate, debug and contribute to large Java project
-- Documented development process on Medium at medium.com/@quazirfan
-- Published conference paper and awarded top engineering poster at URSCAD 2018
+- Awarded top engineering poster at Undergraduate Research, Scholarship and Creative Activity Day(URSCAD) 2018
 
 ### Game Developer
-- Wrote a 3D platforming game using Java based game engine (see Rabbit’s Fury GitHub repo)
-- Developed 2D game engine framework with collision detection (see 2d side scroller GitHub repo)
+- Wrote a 3D platforming game using Java based game engine. Github link.
+- Wrote a thin game engine like wrapper around Java2D that features AABB collision detection [Github Link](https://github.com/quazi-irfan/2d-Side-scroller-Java2D)
 
 ### Programmer | Math & Statistics Dept. Research Team
-- Fixed bugs in legacy Java codebase & reverse-engineered binary fix library compatibility  
-- Setup a modern build system (Gradle) for the codebase that did not have any  
+- Fixed bugs in legacy Java codebase
+- Reverse-engineered Java binary to fix library compatibility  
+- Setup a build system (Gradle) for the old codebase
 
 ### Leadership
-- Lead the Robotics Club software team; Held multiple ACM seminar on Git and Github
+- Lead the Robotics Club software team
+- Held multiple ACM seminar on Git and Github
 - Participated in Competitive programming and ICPC North Central Regional Contest 2017
 - Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
 
