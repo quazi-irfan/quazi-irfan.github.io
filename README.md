@@ -48,14 +48,12 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
 
 ### Notable Coursework
-- Analyzed a vehicle fuel efficiency dataset using Multiple Linear Regression that address multicollinearity  
-- problem using variation inflation factor (VIF), Ridge and LASSO method.  
-- Analyzed multivariate dataset using principal component and linear discriminate analysis  
-- Learned to compartmentalize components of Assembler for SIC-XE instruction set (on GitHub)  
-- Learned to implement a compiler for Ada to 16-bit Intel 8086 instruction by building a recursive descent  
-- parser that generates intermediate Three Address code that is converted to x86 via MASM (on Github)  
+- Analyzed a vehicle fuel efficiency dataset using **Multiple Linear Regression** that address **multicollinearity** problem using **variation inflation factor (VIF), Ridge and LASSO method**.  
+- Analyzed multivariate dataset **using principal component and linear discriminate analysis**  
+- Wrote an **Assembler for SIC-XE instruction set** [GitHub Link](https://github.com/quazi-irfan/SIC-XE-Assembler)
+- Learned to **implement a compiler for Ada to 16-bit Intel 8086 instruction** using a recursive descent parser that generates intermediate Three Address code which is then converted to x86 via MASM. [Github Link](https://github.com/quazi-irfan/Mini-Ada-Compiler)
 - Developed a MySQL database front-end that dynamically generates Swing UI by parsing table information  
-- Implemented algorithms and benchmarked their runtime in independent study on Algorithms  
+- Implemented algorithms and analyzed their runtime theorically and emphirically in an independent study on Algorithms  
 
 ## References
 ### Dr. George Hamer, Ph.D.
