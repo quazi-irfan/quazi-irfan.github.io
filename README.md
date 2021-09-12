@@ -49,7 +49,7 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Wrote an **Assembler for SIC-XE instruction set** [GitHub Link](https://github.com/quazi-irfan/SIC-XE-Assembler)
 - Learned to **implement a compiler for Ada to 16-bit Intel 8086 instruction** using a recursive descent parser that generates intermediate Three Address code which is then converted to x86 via MASM. [Github Link](https://github.com/quazi-irfan/Mini-Ada-Compiler)
 - Developed a MySQL database front-end that dynamically generates Swing UI by parsing table information  
-- Implemented algorithms and analyzed their runtime theorically and emphirically in an independent study on Algorithms  
+- Implemented different algorithms and analyzed their runtime theorically and emphirically in an independent study on Algorithms  
 
 ### Leadership
 - Lead the Robotics Club software team
