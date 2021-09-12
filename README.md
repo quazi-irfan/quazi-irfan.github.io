@@ -2,7 +2,7 @@
 Email: quazirfan@gmail.com (Preferred)   
 Contact: 386-334-4792  
 Programming: [github.com/quazi-irfan](github.com/quazi-irfan)  
-Research: [medium.com/@quazirfan](https://medium.com/@quazirfan)  
+Research blog: [medium.com/@quazirfan](https://medium.com/@quazirfan)  
   
 ## Education
 - M.S. in Statistics from South Dakota State University (CGPA 3.6, Expected Grad. Fall 2021)
@@ -40,7 +40,7 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 
 ### Programmer | Math & Statistics Dept. Research Team
 - Fixed bugs in legacy Java codebase
-- Reverse-engineered Java binary to fix library compatibility  
+- Reverse-engineered Java bytecode to fix library compatibility  
 - Setup a build system (Gradle) for the old codebase
 
 ### Notable Coursework
