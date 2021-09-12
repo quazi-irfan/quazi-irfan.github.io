@@ -10,10 +10,10 @@ Research: [medium.com/@quazirfan](https://medium.com/@quazirfan)
 
 ## Skills
 - Tools: Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
-- Aeas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Programming in R, <br /> Multiple Linear
-Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multivariate Analysis, Bayesian Statistics
+- Aeas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Inference, Statistical Programming in R, <br /> Multiple Linear
+Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesian Statistics
 
-## Experience
+## Experiences
 
 ### Graduate Research | Math & Statistics and Mechanical Engineering Departments June 2020-Present
 - Investigating robot localization problem using on-board inertial measurement sensors & Kalman Filter
