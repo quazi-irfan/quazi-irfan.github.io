@@ -9,14 +9,17 @@ Research: [medium.com/@quazirfan](https://medium.com/@quazirfan)
 - B.Sc. in Computer Science from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
 
 ## Skills
-- Tools: Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
-- Aeas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Inference, Statistical Programming in R, <br /> Multiple Linear
+- **Lnaguages and Tools:** Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
+- **Aeas of Expertise:** Algorithm analysis, Database, Linear Algebra, Statistical Inference, Statistical Programming in R, <br /> Multiple Linear
 Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesian Statistics
 
 ## Experiences
 
 ### Graduate Research | Math & Statistics and Mechanical Engineering Departments June 2020-Present
 - Investigating robot localization problem using on-board inertial measurement sensors & Kalman Filter
+- Built a hardware test bed to acquire data from multiple inertial measurement unit sensors.
+- Investigated IIR and FIR filtering algorithm to smooth out sensor noise
+- Investigated different numerical integration methods to find displacement from acceleration
 - Implemented path finding algorithm using BFS algorithm. [Github Link](https://github.com/quazi-irfan/RoverMapping)
 
 ### Graduate Teaching Assistant | Math & Statistics Department
@@ -29,7 +32,6 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Wrote research proposal and awarded **$5000** to develope a wearable exoskeleton for Virtual Reality
 - Blogged development process on Medium, Part [1](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-1-459db0c44e2e), [2](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-2-9aa988d5b33a) and [3](https://medium.com/@quazirfan/gloves-for-virtual-reality-dev-diary-3-92dfd9b8b7a8)
 - Published IEEE conference paper [Building an Exoskeleton Glove on Virtual Reality Platform](https://ieeexplore.ieee.org/abstract/document/8500085)
-- Learned to navigate, debug and contribute to large Java project
 - Awarded top engineering poster at Undergraduate Research, Scholarship and Creative Activity Day(URSCAD) 2018
 
 ### Game Developer
@@ -41,12 +43,6 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Reverse-engineered Java binary to fix library compatibility  
 - Setup a build system (Gradle) for the old codebase
 
-### Leadership
-- Lead the Robotics Club software team
-- Held multiple ACM seminar on Git and Github
-- Participated in Competitive programming and ICPC North Central Regional Contest 2017
-- Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
-
 ### Notable Coursework
 - Analyzed a vehicle fuel efficiency dataset using **Multiple Linear Regression** that address **multicollinearity** problem using **variation inflation factor (VIF), Ridge and LASSO method**.  
 - Analyzed multivariate dataset **using principal component and linear discriminate analysis**  
@@ -54,6 +50,12 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Learned to **implement a compiler for Ada to 16-bit Intel 8086 instruction** using a recursive descent parser that generates intermediate Three Address code which is then converted to x86 via MASM. [Github Link](https://github.com/quazi-irfan/Mini-Ada-Compiler)
 - Developed a MySQL database front-end that dynamically generates Swing UI by parsing table information  
 - Implemented algorithms and analyzed their runtime theorically and emphirically in an independent study on Algorithms  
+
+### Leadership
+- Lead the Robotics Club software team
+- Held multiple ACM seminar on Git and Github
+- Participated in Competitive programming and ICPC North Central Regional Contest 2017
+- Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
 
 ## References
 ### Dr. George Hamer, Ph.D.
