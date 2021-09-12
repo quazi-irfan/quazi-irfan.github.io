@@ -10,14 +10,14 @@ Research: [medium.com/@quazirfan](https://medium.com/@quazirfan)
 
 ## Skills
 - Tools: Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
-- Aeas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Programming in R, Multiple Linear
+- Aeas of Expertise: Algorithm analysis, Database, Linear Algebra, Statistical Programming in R, <br /> Multiple Linear
 Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multivariate Analysis, Bayesian Statistics
 
 ## Experience
 
 ### Graduate Research | Math & Statistics and Mechanical Engineering Departments June 2020-Present
 - Investigating robot localization problem using on-board inertial measurement sensors & Kalman Filter
-- Implemented path finding algorithm using BFS algorithm (see RoverMapping Github repo)
+- Implemented path finding algorithm using BFS algorithm. [Github Link](https://github.com/quazi-irfan/RoverMapping)
 
 ### Graduate Teaching Assistant | Math & Statistics Department
 - Contributed content to [Learn R through Examples](https://gexijin.github.io/learnR/) textbook by Dr. Xijin Ge
@@ -47,7 +47,7 @@ Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multiv
 - Participated in Competitive programming and ICPC North Central Regional Contest 2017
 - Reported bugs in the following projects: Unity3d, IntellijIDEA and jMonkeyEngine
 
-## Notable Coursework
+### Notable Coursework
 - Analyzed a vehicle fuel efficiency dataset using Multiple Linear Regression that address multicollinearity  
 - problem using variation inflation factor (VIF), Ridge and LASSO method.  
 - Analyzed multivariate dataset using principal component and linear discriminate analysis  
@@ -57,26 +57,33 @@ Regression, Logistic Regression, Statistical Inference, Cluster Analysis, Multiv
 - Developed a MySQL database front-end that dynamically generates Swing UI by parsing table information  
 - Implemented algorithms and benchmarked their runtime in independent study on Algorithms  
 
-# References
-## Dr. George Hamer, Ph.D.
-Assistant Department Head  
-Associate Professor  
-Electrical Engineering and Computer Science Department  
-South Dakota State University  
-SECS 121  
-Brookings, S.D. 57007  
-605-688-5721  
-George.Hamer@sdstate.edu  
-(Instructor in CSC-314 Assembly Language, CSC-354 Systems Programming and CSC-446 Compiler Construction)  
+## References
+### Dr. George Hamer, Ph.D.
+<details>
+  <summary>Click for more information</summary>
+  Assistant Department Head  <br />
+  Associate Professor  <br />
+  Electrical Engineering and Computer Science Department  <br />
+  South Dakota State University  <br />
+  SECS 121  <br />
+  Brookings, S.D. 57007  <br />
+  605-688-5721  <br />
+  George.Hamer@sdstate.edu  <br />
+  (Instructor in CSC-314 Assembly Language, CSC-354 Systems Programming and CSC-446 Compiler Construction)  
+</details>
 
-## Dr. Gary Hatfield, Ph.D.
-Associate Professor  
-Mathematics & Statistics Department  
-South Dakota State University  
-Architecture, Math & Engineering Building 256  
-Math & Statistics-Box 2225  
-University Station  
-Brookings, SD 57007  
-605-688-5846  
-gary.hatfield@sdstate.edu  
-(Graduate research advisor and instructor in Stochastic process and Probabilistic robotics course)  
+### Dr. Gary Hatfield, Ph.D.
+<details>
+  <summary>Click for more information</summary>
+  Associate Professor  <br />
+  Mathematics & Statistics Department  <br />
+  South Dakota State University  <br />
+  Architecture, Math & Engineering Building 256  <br />
+  Math & Statistics-Box 2225  <br />
+  University Station  <br />
+  Brookings, SD 57007  <br />
+  605-688-5846  <br />
+  gary.hatfield@sdstate.edu  <br />
+  (Graduate research advisor and instructor in Stochastic process and Probabilistic robotics course)  
+</details>
+
