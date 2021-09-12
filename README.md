@@ -1,9 +1,6 @@
 # Quazi Irfan 
-Email: quazirfan@gmail.com (Preferred)   
-Contact: 386-334-4792  
-Programming: [github.com/quazi-irfan](github.com/quazi-irfan)  
-Research blog: [medium.com/@quazirfan](https://medium.com/@quazirfan)  
-  
+**Email** quazirfan@gmail.com (Preferred);  **Phone** 386-334-4792  
+**Github Profile** [github.com/quazi-irfan](github.com/quazi-irfan);  **Research blog** [medium.com/@quazirfan](https://medium.com/@quazirfan)
 ## Education
 - M.S. in Statistics from South Dakota State University (CGPA 3.6, Expected Grad. Fall 2021)
 - B.Sc. in Computer Science from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
@@ -16,10 +13,10 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 ## Experiences
 
 ### Graduate Research | Math & Statistics and Mechanical Engineering Departments June 2020-Present
-- Investigating robot localization problem using on-board inertial measurement sensors & Kalman Filter
-- Built a hardware test bed to acquire data from multiple inertial measurement unit sensors.
-- Investigated IIR and FIR filtering algorithm to smooth out sensor noise
-- Investigated different numerical integration methods to find displacement from acceleration
+- Investigated robot localization problem using on-board inertial measurement sensors
+- Built a hardware test bed to acquire data from multiple inertial measurement unit sensors
+- Investigated IIR and FIR filtering algorithms to smooth out sensor data
+- Investigated different numerical integration methods to find position from acceleration
 - Implemented path finding algorithm using BFS algorithm. [Github Link](https://github.com/quazi-irfan/RoverMapping)
 
 ### Graduate Teaching Assistant | Math & Statistics Department
@@ -74,7 +71,7 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 
 ### Dr. Gary Hatfield, Ph.D.
 <details>
-  <summary>Click for more information</summary>
+  <summary> Click for more information</summary>
   Associate Professor  <br />
   Mathematics & Statistics Department  <br />
   South Dakota State University  <br />
