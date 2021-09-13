@@ -2,8 +2,8 @@
 **Email** quazirfan@gmail.com (Preferred);  **Phone** 386-334-4792  
 **Github Profile** [github.com/quazi-irfan](github.com/quazi-irfan);  **Research blog** [medium.com/@quazirfan](https://medium.com/@quazirfan)
 ## Education
-- M.S. in Statistics from South Dakota State University (CGPA 3.6, Expected Grad. Fall 2021)
-- B.Sc. in Computer Science from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
+- M.S. in **Statistics** from South Dakota State University (CGPA 3.6, Expected Grad. Fall 2021)
+- B.Sc. in **Computer Science** from South Dakota State University (Major GPA 3.58, Graduated on May 2018)
 
 ## Skills
 - **Lnaguages and Tools:** Java, R, Python, Julia, Gradle, Maven, Git, Bash, Github, GNU/Linux, IntellijIDEA, C, C++, SQL
