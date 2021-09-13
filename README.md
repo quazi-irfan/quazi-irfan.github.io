@@ -32,7 +32,7 @@ Regression, Logistic Regression, Cluster Analysis, Multivariate Analysis, Bayesi
 - Awarded top engineering poster at Undergraduate Research, Scholarship and Creative Activity Day(URSCAD) 2018
 
 ### Game Developer
-- Wrote a 3D platforming game using Java based game engine. Github link.
+- Wrote a 3D platforming game using Java based game engine. [Github Link](https://github.com/quazi-irfan/Rabbit-s-Fury/)
 - Wrote a thin game engine like wrapper around Java2D that features AABB collision detection [Github Link](https://github.com/quazi-irfan/2d-Side-scroller-Java2D)
 
 ### Programmer | Math & Statistics Dept. Research Team
